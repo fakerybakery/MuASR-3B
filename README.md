@@ -14,6 +14,10 @@ The model was fine-tuned on a dataset of approximately 20,000 full-length songs 
 |-------|------------|----------|
 | MuASR-3B | 3B | [Hugging Face](https://huggingface.co/mrfakename/MuASR-3B) |
 
+## Quick Start
+
+See [inference.py](inference.py) to get started.
+
 ## Output Format
 
 The model produces structured outputs combining style tags and formatted lyrics:
