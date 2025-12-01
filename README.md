@@ -39,6 +39,10 @@ Hold on to the memories we made
 
 *Coming soon.*
 
+## Acknowledgments
+
+Thank you to Hugging Face for generously sponsoring the compute resources for training this model!
+
 ## License
 
 CC-BY-NC 4.0. We hope to be able to release the final version under Apache-2.0.
