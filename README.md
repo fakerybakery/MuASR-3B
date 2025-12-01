@@ -1,6 +1,6 @@
 # MuASR: Lyrics Transcription and Captioning for Music
 
-[GitHub](https://github.com/fakerybakery/MuASR-3B) | [**Hugging Face**](https://huggingface.co/mrfakename/MuASR-3B)
+[**GitHub**](https://github.com/fakerybakery/MuASR-3B) | [Hugging Face](https://huggingface.co/mrfakename/MuASR-3B)
 
 **Note: this is an early preview of the model, the full version of the model is still training.**
 
