@@ -1,0 +1,5 @@
+librosa
+soundfile
+mistral-common
+transformers[torch]
+torchaudio
