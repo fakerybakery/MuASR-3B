@@ -45,4 +45,6 @@ Thank you to Hugging Face for generously sponsoring the compute resources for tr
 
 ## License
 
-CC-BY-NC 4.0. We hope to be able to release the final version under Apache-2.0.
+The weights are licensed under CC-BY-NC 4.0, we hope to be able to release the final version under Apache-2.0.
+
+All code in this repository is released under the Apache-2.0 license.
