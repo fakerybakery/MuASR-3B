@@ -4,7 +4,7 @@
 
 **Note: this is an early preview of the model, the full version of the model is still training.**
 
-MuASR is an audio-language model based on Voxtral 3B for music lyrics transcription and captioning. It is inteded for dataset processing for music generation, as well as general-purpose music transcription tasks.
+MuASR is an audio-language model based on Voxtral 3B for music lyrics transcription and captioning. It is intended for dataset processing for music generation, as well as general-purpose music transcription and captioning tasks.
 
 ## Models
 
