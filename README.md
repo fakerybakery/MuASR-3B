@@ -18,6 +18,8 @@ The model was fine-tuned on a dataset of approximately 20,000 full-length songs 
 
 See [inference.py](inference.py) to get started.
 
+You can also use vLLM - to use the model with vLLM, please see [this guide](https://huggingface.co/mistralai/Voxtral-Mini-3B-2507#vllm-recommended). Make sure to use the model in ASR mode.
+
 ## Output Format
 
 The model produces structured outputs combining style tags and formatted lyrics:
